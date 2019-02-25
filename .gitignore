@@ -1,0 +1,4 @@
+.stack-work/
+newtype.cabal
+*~
+*.sw*
